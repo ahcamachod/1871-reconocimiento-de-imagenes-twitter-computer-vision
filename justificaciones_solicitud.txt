@@ -1,0 +1,8 @@
+This app was created to use the Twitter API integrated with Python.
+
+This app is designed for practicing data analysis by retrieving public information 
+from Twitter and analyzing it using Computer Vision from Azure Cognitive Services. 
+It is intended for educational purposes only.
+
+
+http://127.0.0.1:1410 

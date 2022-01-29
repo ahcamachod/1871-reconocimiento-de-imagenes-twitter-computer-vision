@@ -1,0 +1,4 @@
+famosos = ['shakira', 'jlo', '10Ronaldinho', 'neymarjr', 'ivetesangalo','SofiaVergara', 'EugenioDerbez', 'thalia', 'lulopilato',
+           'diegotorres','montanertwiter','Cristiano','kaka','carlosvives','fonseca','francodevita','gabyespino','AlejandroSanz',
+           'jamesdrodriguez','davidbisbal','Anahi']
+
